@@ -19,6 +19,7 @@ Linux: ``~/.local/share/Steam/steamapps/compatdata/107410/pfx/drive_c/users/stea
 Mac: ``~/Library/Application Support/com.vpltd.Arma3/GameDocuments/Arma 3/YourProfile/compositions`` (not confirmed for 2.22 port)
 
 After you do so, for most compositions, just copy and paste the folder that has the composition you wish to install into that directory, and you should be fine.
+
 ####FOB Compositions
 See the scripts tab.
 
