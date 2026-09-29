@@ -1,15 +1,31 @@
-# LucSon's Aegis Fork
-A (to be worked on) fork of AEGIS to further future Arma 3 pubzeusing. AEGIS is an addon made by Kelly/LH Martin for Expunged's Enhanced Zeus Modules 2.1.6, an Arma 3 vanilla Zeus enhancement script. Unfinished.
+# Boomy's Zeus Scripts
+All my Arma 3 Public Zeus scripts, compositions, and some Aegis stuff in one place. Including the horrible ones!
 
-Currently just a complete clone of Aegis as of 9/22/2026. If Lockheed returns and wishes for me to take this down or make it private, I shall oblige. I'm only keeping this up as he stated Aegis was licensed under the MIT License, and he has been missing for a few months leaving Aegis abandoned.
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+***
 
-# Installation
-You will need to get version 2.1.6 of Enhanced Zeus Modules for Aegis to work. [That is available here.](https://github.com/expung3d/Enhanced-Zeus-Modules/releases/tag/V2.1.6) You are only missing a few minor bug fixes and the Max Speed module, so don't worry.
+I've gotten many requests over the past two years for some of the scripts and compositions I've made or had for game mastering in Arma 3's official Zeus servers. Originally, I was against it, given they have a certain niche to the way I use the Game Master slot in public Zeus. Given overwhelming demand for some of the scripts, I decided to cave and release them in a tidy GitHub repo for y'all. They can all probably be coded way better, but it doesn't really matter.
 
-Place down a helipad in the editor, copy-paste aegis.sqf into the init field then save.
+## Installation
+### Scripts
+The files in the `Scripts 'n' Stuff` subfolders (for the most part) are meant to be copy-and-pasted into an invisible helipad in the 3DEN editor. Simple as that, just open them raw and press <kbd>Ctrl</kbd> + <kbd>A</kbd>, then copy it with <kbd>Ctrl</kbd> + <kbd>C</kbd>, before pasting it in the invisible helipad with <kbd>Ctrl</kbd> + <kbd>V</kbd>. The README in the folder has better details for each.
+### Compositions
+The files in the `Compositions 'n' Stuff` folders are a bit more complicated.
+#### Regular Compositions
+You need to know where your Arma 3 composition folder is, but that's pretty easy. They're in a different place for Windows, Linux, and Mac. If you're using your default Arma profile name, then it should be in the regular ``Arma 3`` folder, however if you changed it by making a new profile it'll be in the ``Arma 3 - Other Profiles`` folder. In there will be a compositions folder, examples given below. **For the usual directories below, we're going to presume you are using a different profile than the default one.**
 
-OR
+Windows: ``C:\Users\YourUser\Documents\Arma 3 - Other Profiles\YourProfile\compositions``
 
-Place down a helipad into the editor, save it as a composition, open your compositions folder in your profile, go to the composition you saved, and replace the composition.sqe.
+Linux: ``~/.local/share/Steam/steamapps/compatdata/107410/pfx/drive_c/users/steamuser/Documents/Arma 3 - Other Profiles/YourProfile/compositions``
 
-Current plans are to fix some bugs in the code, make a few extremely minor changes (e.g. turning headlamps red), and hopefully update it to the new version of Enhanced Zeus Modules.
+Mac: ``~/Library/Application Support/com.vpltd.Arma3/GameDocuments/Arma 3/YourProfile/compositions`` (not confirmed for 2.22 port)
+
+After you do so, for most compositions, just copy and paste the folder that has the composition you wish to install into that directory, and you should be fine.
+#### FOB Compositions
+See the scripts tab.
+
+***
+I really hope to see people using these compositions in Public Zeus, as that is the entire goal of me placing them in a public repo. Do feel free to share these compositions around, even with new Zeuses, as while most of them are situational, they are still pretty useful.
+
+
+![guhhh](~junk/bat_peek_github2.png)
