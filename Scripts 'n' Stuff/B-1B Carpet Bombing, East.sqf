@@ -1,10 +1,10 @@
 this spawn { 
     params ["_newUnit"]; 
      
-    systemChat "[LZM] B1 carpet bombing ready.";  
+    systemChat "[BZS] B1 carpet bombing ready.";  
      
  sleep 3; 
- systemChat "[LZM] Weapons release..."; 
+ systemChat "[BZS] Weapons release..."; 
  playSound "addItemOk";  
     for "_i" from 1 to 28 do { 
         [_newUnit] spawn { 
@@ -20,6 +20,6 @@ this spawn {
         sleep 0.5;  
     }; 
  
-    systemChat "[LZM] Splash, out.";  
+    systemChat "[BZS] Splash, out.";  
     playSound "addItemOk"; 
 }; 
