@@ -6,5 +6,5 @@ A folder of my pre-placed missions for Arma 3 Public Zeus, ranging from my earli
 
 Place these in an invisible helipad and save them. The map they are meant for are in the first part of the filename. Some of these missions have garrisoned enemies; those are in the [`garrison`](garrison/) subfolder.
 
-The spawn bases that I am really known for using are in another subfolder, that being the ['mob'](mob/) subfolder.
+The spawn bases that I am really known for using are in another subfolder, that being the [`mob`](mob/) subfolder.
 
