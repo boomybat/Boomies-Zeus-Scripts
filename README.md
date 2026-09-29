@@ -15,7 +15,9 @@ The files in the `Compositions 'n' Stuff` folders are a bit more complicated.
 You need to know where your Arma 3 composition folder is, but that's pretty easy. They're in a different place for Windows, Linux, and Mac. If you're using your default Arma profile name, then it should be in the regular ``Arma 3`` folder, however if you changed it by making a new profile it'll be in the ``Arma 3 - Other Profiles`` folder. In there will be a compositions folder, examples given below. **For the usual directories below, we're going to presume you are using a different profile than the default one.**
 
 Windows: ``C:\Users\YourUser\Documents\Arma 3 - Other Profiles\YourProfile\compositions``
+
 Linux: ``~/.local/share/Steam/steamapps/compatdata/107410/pfx/drive_c/users/steamuser/Documents/Arma 3 - Other Profiles/YourProfile/compositions``
+
 Mac: ``~/Library/Application Support/com.vpltd.Arma3/GameDocuments/Arma 3/YourProfile/compositions`` (not confirmed for 2.22 port)
 
 After you do so, for most compositions, just copy and paste the folder that has the composition you wish to install into that directory, and you should be fine.
