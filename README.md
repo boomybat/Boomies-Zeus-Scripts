@@ -8,9 +8,9 @@ I've gotten many requests over the past two years for some of the scripts and co
 
 ## Installation
 ### Scripts
-The files in the [`Scripts 'n' Stuff`](Scripts 'n' Stuff/) subfolders (for the most part) are meant to be copy-and-pasted into an invisible helipad in the 3DEN editor. Simple as that, just open them raw and press <kbd>Ctrl</kbd> + <kbd>A</kbd>, then copy it with <kbd>Ctrl</kbd> + <kbd>C</kbd>, before pasting it in the invisible helipad with <kbd>Ctrl</kbd> + <kbd>V</kbd>. The README in the folder has better details for each.
+The files in the `Scripts 'n' Stuff` subfolders (for the most part) are meant to be copy-and-pasted into an invisible helipad in the 3DEN editor. Simple as that, just open them raw and press <kbd>Ctrl</kbd> + <kbd>A</kbd>, then copy it with <kbd>Ctrl</kbd> + <kbd>C</kbd>, before pasting it in the invisible helipad with <kbd>Ctrl</kbd> + <kbd>V</kbd>. The README in the folder has better details for each.
 ### Compositions
-The files in the [`Compositions 'n' Stuff`](Compositions 'n' Stuff/) folders are a bit more complicated.
+The files in the `Compositions 'n' Stuff` folders are a bit more complicated.
 #### Regular Compositions
 You need to know where your Arma 3 composition folder is, but that's pretty easy. They're in a different place for Windows, Linux, and Mac. If you're using your default Arma profile name, then it should be in the regular ``Arma 3`` folder, however if you changed it by making a new profile it'll be in the ``Arma 3 - Other Profiles`` folder. In there will be a compositions folder, examples given below. **For the usual directories below, we're going to presume you are using a different profile than the default one.**
 
