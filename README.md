@@ -7,3 +7,7 @@ I've gotten many requests over the past two years for some of the scripts and co
 # Installation
 ## Scripts
 The files in the ``Scripts 'n' Stuff`` subfolders (for the most part) are meant to be copy-and-pasted into an invisible helipad in the 3DEN editor. Simple as that, just open them raw and press <kbd>Ctrl</kbd> + <kbd>A</kbd>, then copy it, before pasting it in the invisible helipad. The README in the folder has better details for each.
+
+
+
+![guhhh](~junk/bat_peek_github2.png)
