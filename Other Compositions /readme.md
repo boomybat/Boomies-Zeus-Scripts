@@ -1,0 +1,1 @@
+This folder is meant for scripts and compositions made by others that allowed their stuff to be public. There's very little info on 'em, I haven't checked the quality of them, but they do work (mostly)?
